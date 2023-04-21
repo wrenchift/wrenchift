@@ -48,11 +48,11 @@ features                                  :
     fontawesome_icon_name                 : star
 
   - title                                 : Simple Data Input
-    description                           : Automatic saving and storage using iCloud.
+    description                           : Quick and simple data input.
     fontawesome_icon_name                 : star
 
   - title                                 : Cloud Storage
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
+    description                           : Automatic saving and storage using iCloud.
     fontawesome_icon_name                 : star
   
   - title                                 : Notes and Comments
