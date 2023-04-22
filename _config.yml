@@ -13,7 +13,7 @@ presskit_download_link                    :                                     
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : With Wrenchift you can easily record all your vehicle's services and maintenance, including oil changes and other repairs. The app allows you to save notes and details about the parts and oils used in each service, and supports multiple vehicles, so users can track their entire fleet.
+app_description                           : With Wrenchift you can easily record all your vehicle's services and maintenance. The app allows you to save notes and details about the parts and oils used in each service and supports multiple vehicles.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -67,7 +67,7 @@ features                                  :
 
 # Theme Settings
 topbar_color                              : "#000000"
-topbar_transparency                       : 0.1
+topbar_transparency                       : 0.4
 topbar_title_color                        : "#ffffff"
 
 cover_image                               : assets/headerimage.png                    # Replace with alternative image path or image URL.
